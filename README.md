@@ -1,2 +1,2 @@
 # Launch-X-Katas
-Modulos del curso Launch-X | Andrade Valadez Jose Miguel
+Modulos del curso Onboarding Launch-X | Andrade Valadez Jose Miguel
